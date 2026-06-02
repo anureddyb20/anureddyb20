@@ -110,11 +110,11 @@ I am a passionate developer with a strong foundation in Electronics and Communic
 ### ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anureddyb20&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=anureddyb20&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anureddyb20&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues,prs,contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=anureddyb20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anureddyb20&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anureddyb20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
