@@ -119,14 +119,16 @@ I am a passionate developer with a strong foundation in Electronics and Communic
 ### ✦ Connect With Me
 
 <div align="center">
+  <a href="mailto:anureddyb20@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anureddyb20">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/anureddyb20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mailto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="50" />
   </a>
 </div>
 
