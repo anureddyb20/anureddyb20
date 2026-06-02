@@ -110,8 +110,8 @@ I am a passionate developer with a strong foundation in Electronics and Communic
 ### ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anureddyb20&theme=tokyonight&hide_border=true&hide=stars,issues,prs,contribs" alt="GitHub Stats" width="55%" />
-  <img src="https://streak-stats.demolab.com/?user=anureddyb20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="43%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anureddyb20&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,issues,prs,contribs" alt="GitHub Stats" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anureddyb20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="43%" />
 </div>
 
 ---
