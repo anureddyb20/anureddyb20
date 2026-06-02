@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>ECE Undergraduate @ Vidya Vardhaka College of Engineering, Mysuru</b><br/>
-  Bridging the gap between hardware and software through innovative solutions.
+  Architecting intelligent solutions at the intersection of AI, Web, and IoT.
 </p>
 
 <br/>
