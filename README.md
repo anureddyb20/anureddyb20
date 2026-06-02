@@ -76,7 +76,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">FestFlow</h3>
+      <h3 align="center">📡 FestFlow</h3>
       <br />
       <p align="center">The ultimate synergy of IoT hardware and real-time analytics for next-generation festival safety.</p>
       <br />
@@ -85,7 +85,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">CollabNest</h3>
+      <h3 align="center">🤝 CollabNest</h3>
       <br />
       <p align="center">A collaborative platform connecting people with ideas to people with skills for meaningful project collaboration.</p>
       <br />
@@ -94,7 +94,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">VayuCool</h3>
+      <h3 align="center">🍃 VayuCool</h3>
       <br />
       <p align="center">An interactive urban thermal experience designed for environmental temperature analysis.</p>
       <br />
