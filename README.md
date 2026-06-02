@@ -81,12 +81,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
       <p align="center">The ultimate synergy of IoT hardware and real-time analytics for next-generation festival safety.</p>
       <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/IoT-Focus-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Analytics-Realtime-green?style=flat-square" />
-      </p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/anureddyb20/Fest-Flow"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        🔗 <a href="https://github.com/anureddyb20/Fest-Flow">github.com/anureddyb20/Fest-Flow</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -95,12 +90,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
       <p align="center">A collaborative platform connecting people with ideas to people with skills for meaningful project collaboration.</p>
       <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Web-Platform-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Collaboration-Tool-green?style=flat-square" />
-      </p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/anureddyb20/collabnest"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        🔗 <a href="https://github.com/anureddyb20/collabnest">github.com/anureddyb20/collabnest</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -109,12 +99,7 @@ I am a passionate developer with a strong foundation in Electronics and Communic
       <p align="center">An interactive urban thermal experience designed for environmental temperature analysis.</p>
       <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Environmental-Analysis-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Interactive-UX-green?style=flat-square" />
-      </p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/anureddyb20/Vayucool"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        🔗 <a href="https://github.com/anureddyb20/Vayucool">github.com/anureddyb20/Vayucool</a>
       </p>
     </td>
   </tr>
