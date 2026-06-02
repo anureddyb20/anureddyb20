@@ -3,12 +3,12 @@
 <img src="banner.svg" alt="Banner" />
 
 <br/>
+<br/>
 
-<p align="center">
-  <b>ECE Undergraduate @ Vidya Vardhaka College of Engineering, Mysuru</b><br/>
-  Architecting intelligent solutions at the intersection of AI, Web, and IoT.
-</p>
+**ECE Undergraduate @ Vidya Vardhaka College of Engineering, Mysuru**<br/>
+Architecting intelligent solutions at the intersection of AI, Web, and IoT.
 
+<br/>
 <br/>
 
 </div>
